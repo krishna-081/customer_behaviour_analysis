@@ -355,6 +355,4 @@ Specialization: AI and Data Analytics
 
 ---
 
-## Project Status
 
-Completed basic version of the customer behavior dashboard using Python, PostgreSQL, SQL, and Power BI.
